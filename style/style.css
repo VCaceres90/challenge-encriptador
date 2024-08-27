@@ -143,7 +143,7 @@ main{
 
 #mensaje{
     background: #ffffff;
-    background-image: url('asset/muneco.svg');
+    background-image: url('asset/Muneco.svg');
     background-repeat: no-repeat;
     background-size: 95%;
     background-position-x: center;
@@ -370,7 +370,7 @@ main{
 
     #mensaje {
         background: #ffffff;
-        background-image: url('asset/muneco.svg');
+        background-image: url('asset/Muneco.svg');
         background-repeat: no-repeat;
         background-size: 90%; 
         background-position-x: center;
@@ -605,7 +605,7 @@ main{
 
     #mensaje {
         background: #ffffff;
-        background-image: url('asset/muneco.svg');
+        background-image: url('asset/Muneco.svg');
         background-repeat: no-repeat;
         background-size: 90%; 
         background-position-x: center;
